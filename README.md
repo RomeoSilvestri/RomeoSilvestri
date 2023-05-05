@@ -1,4 +1,4 @@
-[![MasterHead](https://www.de.ed.ac.uk/sites/default/files/projects.gif)](https://www.de.ed.ac.uk/sites/default/files/projects.gif)]
+[![MasterHead](https://www.de.ed.ac.uk/sites/default/files/projects.gif)](https://www.de.ed.ac.uk/sites/default/files/projects.gif)
 
 <h1 align="center">Ciao 👋, I'm Romeo</h1>
 <h3 align="center">A passionate Data Scientist from Italy</h3>
