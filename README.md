@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeosilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="romeosilvestri" /> </p>
 
+- ⚡ Here you can find my university projects
+
 - 🌱 I’m currently learning **AWS, Power BI, Tableau**
 
 - 👯 I’m looking to collaborate **with you**
-
-- 👨‍💻 All of my projects are available on GitHub
 
 - 📫 How to reach me: **silveromeo98@gmail.com**
 
