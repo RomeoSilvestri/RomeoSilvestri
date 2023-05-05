@@ -1,4 +1,4 @@
-[![MasterHead](https://cloud.google.com/docs/get-started/images/banner.gif)](https://cloud.google.com/docs/get-started/images/banner.gif)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
 
 <h1 align="center">Ciao! I'm Romeo</h1>
 <h3 align="center">A passionate Data Scientist from Italy</h3>
