@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeosilvestri&label=Profile%20views&color=0e75b6&style=flat" alt="romeosilvestri" /> </p>
 
-- ⚡ Here you can find my **projects**
+- ⚡ Here you can find my <a href="https://github.com/RomeoSilvestri?tab=repositories" target="_blank">projects</a>
 
 - 🌱 I’m currently learning **AWS, Power BI, Tableau**
 
