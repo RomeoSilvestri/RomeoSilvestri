@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS, Power BI, Tableau**
 
-- 👯 I’m looking to collaborate **with you**
+- 🔥 I’m looking to collaborate **with you**
 
 - 📫 How to reach me: **silveromeo98@gmail.com**
 
