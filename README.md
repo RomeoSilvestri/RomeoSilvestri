@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVscWZ1cThlY3UzN3BrdTI0ZjZhMGx5YmFlcnVrbjFrcTRuemRkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XN0eWT7hQLO5BM86BE/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVscWZ1cThlY3UzN3BrdTI0ZjZhMGx5YmFlcnVrbjFrcTRuemRkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XN0eWT7hQLO5BM86BE/giphy.gif)
 
 <h1 align="center">Ciao! I'm Romeo</h1>
 <h3 align="center">A passionate Data Scientist from Italy</h3>
