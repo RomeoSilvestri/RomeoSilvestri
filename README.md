@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
   <a href="https://www.tableau.com/it-it/trial/tableau-software?utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2017049&utm_language=IT&utm_country=SoEUR-IT&adgroup=CTX-Brand-Core-EN-E&adused=STAT&creative=&d=7013y000000vYhH&nc=7013y0000029zDnAAI&cq_cmp=11381420837&cq_net=g&cq_plac=&gad=1&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu1KofwLtl6dUMj35usguXL55YFA_BEES-7ijGhl7MeVSgVDKXXqBTMaAmisEALw_wcB&gclsrc=aw.ds">
-    <img src="https://f9s9t9d6.rocketcdn.me/wp-content/uploads/2023/01/tableau-logo.jpg" alt="Tableau" width="40" height="40" />
+    <img src="https://b-new.be/wp-content/uploads/2020/07/TB.png" alt="Tableau" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
