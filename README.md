@@ -8,7 +8,7 @@
 
 - ⚡ Here you can find my <a href="https://github.com/RomeoSilvestri?tab=repositories" target="_blank">projects</a>
 
-- 🌱 I’m currently learning **AWS, Power BI, Tableau**
+- 🌱 I’m currently learning **AWS** and **Power BI**
 
 - 🔥 I’m looking to collaborate **with you**
 
