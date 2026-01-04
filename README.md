@@ -8,16 +8,9 @@
 
 - ⚡ Here you can find all of my <a href="https://github.com/RomeoSilvestri?tab=repositories" target="_blank">projects</a>
 
-- 🌱 I’m currently learning **AWS**
+- 📝 LinkedIn: **www.linkedin.com/in/romeo-silvestri/**
 
-- 🔥 I’m looking to collaborate **with you**
-
-- 📫 How to reach me: **silveromeo98@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/romeo-silvestri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romeo-silvestri/" height="30" width="40" /></a>
-</p>
+- 📫 E-mail: **silveromeo98@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
